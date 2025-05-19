@@ -25,17 +25,17 @@ TIER_COLORS = {
 }
 
 TIER_ICONS = {
-    "IRON": "https://i.namu.wiki/i/fRDGuYd_ntkXCiaC44IrD6d-4KXNvOaiCxnv4gbxFNQbkg7_WK0iJOcFYJBPwtHxmduWquZHKSdkFMHajUucD_3anVCqWFbIbulWJLvQkZVA9UJixrL3QUmopKPjakxknIZ6Ragr4aPnv1Mor617sQ.webp",
-    "BRONZE": "https://i.namu.wiki/i/VW5ehiDiNsTj9v-qIqTf4uqegHlmhGMzk0CtCaceWkH-6dtO-bfigeggTjXho6UiIUMJXUTUkJOHmI08qimZbA2pawZRu7UpezYRB6dBi73qX1ml62CNzqyq84ZB5skHoOYS22SfpKiKBPnzBfTu1Q.webp",
-    "SILVER": "https://i.namu.wiki/i/TJpgPFCEF0exeNIlkGgLsKHhiKmlt3iSi4jCIAlIeB_gSgvA0xNPN2MilmqkXUBxh1mrEz2rT2EDKvn44wJrnJ-g8aXmp5osKpwHqHT0ij-H70lKPJzGCuhAuNWc7_u9OY2EK8e08R_Y6R6rTa4g7A.webp",
-    "GOLD": "https://i.namu.wiki/i/Wfe40ojjHziwfyTVNP42YYSPnw6od--n2RdRWlzDawe1cnsBZl799jX8JNMLRhszO2lqtBwnv_s5-LXlyKNY4tc17jxxIqr29aJMOzt32UC59NjcEy_v_pok3xIr0S6en4WQZlNdpnMl89hjPGBpdA.webp",
-    "PLATINUM": "https://i.namu.wiki/i/HP6iN5Lyg3CY2YXP_p5pGjofLy3bwsMhLyFQij_Xf18CEgBq4o38qo_LmEnKE_65vIzovQFXvSQ_hRjbOGtWE9w2Z4QARhu2V01Q30tSAdtRjhRNnUiOGQQ3y5RqtkPraKCdOF7JheoofD455H77EA.webp",
-    "EMERALD": "https://i.namu.wiki/i/4w2tbKP8cwst8un23o12P0BHggGb1mhgsook9D-9xy81Y9O5NLUrXUTYVE1Uw6pNiUwlcZrECMKZpv63rRqdYtKp_peXfUy2UdSw9qtpmPHbwYYS86mh6OJi-IJlER9xV4kam2iHAvyHInUs8CRGNA.webp",
-    "DIAMOND": "https://i.namu.wiki/i/a_-wpdRVfUT92SK9BQmDl9CqOZF5hmcJSvL9ALHTPlY_dt2LEbipE7D3QKRYnwtfE4zJ86ZFJFMDf4aBcW4Y0q6okFqK0DuV4n8yLhZCw9P-bYp5Wu7R0oHKNXPbZ_SGh3zHuqOeZ0pU0OQKBmX_FA.webp",
-    "MASTER": "https://i.namu.wiki/i/fU1nJnI0JYvC5k-KrIhyMGlaGqVKk_PZWB3Qkyri1to_KinVdisoh3qrH1UITehG5sMBbKGdhfxBV266BRu6SFB-rhh3qsptATpsop4aiRiMl-Ksw2dL4tSrgcHZxU39tBmHY4XNBMjDeRtMY6orWg.webp",
-    "GRANDMASTER": "https://i.namu.wiki/i/LRSnHGJg8fr03tjeGt_16i3ugiRuRBQrzkO_74Dl6LAEH1TySa-3yAQb1oWZXj5sHFjjwfq3iuMFXuwYXYBMkg5IJ0zJWeEDX2-evF4coc85mgkT3ihoS8nBKIHrDq7OGVUbExAtkBwcjWxK8yWHPg.webp",
-    "CHALLENGER": "https://i.namu.wiki/i/7J-b-o_MHFd81loEALf1XZ_XuwCQyT5bPply5rIsKB4VfBEvhcmG3s7Gh8CBkX0IBV33_OanN9rj3sur16tbmCU3CmVkmZquk8GhJnwlOBZIhoEtvx56zU30EY5pEMBeV6I88YWcETPMNgYEEaAH5Q.webp",
-    "UNRANKED": "https://i.namu.wiki/i/dHU0Ds9uINVEBhHM7oewp2OM897IQ2cipM1xJAlGn88gDEiDcyHTRMOVocoJf0unEDpjoFFr1RYhAn96dG7SnefEYMSUt0HLgkuBnJ6xEqovEDZJcLXRpj5ru_S1L7NvhBRD1Y5ItSDvDUKvQPDYBg.webp" # 임시 아이콘
+    "IRON": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-shared-components/global/default/images/iron.png",
+    "BRONZE": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-shared-components/global/default/images/bronze.png",
+    "SILVER": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-shared-components/global/default/images/silver.png",
+    "GOLD": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-shared-components/global/default/images/gold.png",
+    "PLATINUM": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-shared-components/global/default/images/platinum.png",
+    "EMERALD": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-shared-components/global/default/images/emerald.png",
+    "DIAMOND": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-shared-components/global/default/images/diamond.png",
+    "MASTER": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-shared-components/global/default/images/master.png",
+    "GRANDMASTER": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-shared-components/global/default/images/grandmaster.png",
+    "CHALLENGER": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-shared-components/global/default/images/challenger.png",
+    "UNRANKED": "https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-shared-components/global/default/images/unranked.png"
 }
 
 
